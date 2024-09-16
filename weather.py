@@ -14,3 +14,4 @@ if(sunny>rainy):
     print("Good weathter")
 else:
     print("Bad weather")
+    
